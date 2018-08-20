@@ -1,0 +1,20 @@
+Builds/
+Library/
+*.rar
+*.zip
+
+###
+
+Temp/
+7Lives/.vs
+7Lives/Assets/TextMesh Pro
+Assets/Editor
+Assets/Gizmos
+Assets/GooglePlayGames
+Assets/GameAnalytics
+Assets/AppMetrica
+Assets/GoogleMobileAds
+Assets/Plugins
+Assets/PlayServicesResolver
+Assets/VkApiForMobile
+Assets/UnityAds

@@ -1,0 +1,3 @@
+[submodule "MakeIt13/Assets/DefaultUtils"]
+	path = MakeIt13/Assets/DefaultUtils
+	url = https://github.com/alinouski/DefaultUtils
