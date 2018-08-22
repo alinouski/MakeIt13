@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MakeIt13!/Game/MainScene.unity
+    guid: 5b264ea0ea19b0a4e858a396647ef0e7
+  m_configObjects: {}
